@@ -1,0 +1,10 @@
+{
+	"name": "ls_adls_pkclimate",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://stpkclimatedev123.dfs.core.windows.net/"
+		}
+	}
+}
